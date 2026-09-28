@@ -1,3 +1,1 @@
-AA
-BB
-AA
+AAAA
